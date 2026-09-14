@@ -4,7 +4,7 @@
 سپس این دستورات را وارد کنید.          
 pip install -r requirements.txt.   
 python manage.py migtate.  
-python manage.py
-python manage.py runserver.  
+python manage.py.        
+python manage.py runserver.       
 سپس روی کنترل کیبورد نگه دارید و روی اون آدرس که از شماره تشکیل شده کلیک کنید
 خروجی را تماشا کنید
